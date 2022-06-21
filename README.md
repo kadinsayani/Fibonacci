@@ -1,10 +1,6 @@
-# CPSC331 Assignment 1
-
-### Kadin Sayani, UCID: 30061139
-
 #### Overview
 
-Files included in submission
+Files included:
 
 - FibMemoization.java
 - FibAlgorithms.java
